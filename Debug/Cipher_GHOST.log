@@ -1,0 +1,6 @@
+﻿  Cipher_GHOST.cpp
+c:\users\maks_\documents\visual studio 2015\projects\cipher_ghost\cipher_ghost\cipher_ghost.cpp(14): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\maks_\documents\visual studio 2015\projects\cipher_ghost\cipher_ghost\cipher_ghost.cpp(22): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\maks_\documents\visual studio 2015\projects\cipher_ghost\cipher_ghost\cipher_ghost.cpp(251): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  Cipher_GHOST.vcxproj -> c:\users\maks_\documents\visual studio 2015\Projects\Cipher_GHOST\Debug\Cipher_GHOST.exe
+  Cipher_GHOST.vcxproj -> c:\users\maks_\documents\visual studio 2015\Projects\Cipher_GHOST\Debug\Cipher_GHOST.pdb (Full PDB)
